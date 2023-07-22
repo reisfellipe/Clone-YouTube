@@ -44,6 +44,12 @@ header .itens-02 .search-input {
     border-radius: 25px 0 0 25px;
 }
 
+header .itens-02 .search-input p {
+    padding: 10px 0 10px 15px;
+    font-family: 'Roboto',sans-serif;
+    font-size: 18px;
+}
+
 header .itens-02 > img {
     padding: 10px 14px;
     background-color: rgba(211, 211, 211, 0.39);
