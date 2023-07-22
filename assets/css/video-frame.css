@@ -1,0 +1,67 @@
+.watching-video {
+    margin: 25px;
+    width: 70vw;
+    height: 824px;
+}
+.watching-video img {
+    width: 960px;
+    height: 515px;
+}
+
+.watching-video h1 {
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    font-weight: 600;
+    font-size: 20px;
+    margin-top: 5px;
+}
+
+.watching-video .subscribe-content img {
+    width: 42px;
+    height: 42px;
+}
+
+.watching-video .subscribe-content {
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 8px;
+}
+
+.watching-video .subscribe-content .subscribers{
+    margin-left: 8px;
+    display: flex;
+    flex-direction: column;
+}
+
+.watching-video .subscribe-content h1 {
+    font-size: 17px;
+}
+
+.watching-video .subscribe-content .subscribers p {
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.watching-video .subscribe-content .subscribe-click p {
+    background-color: #CC0000;
+    color: white;
+    margin-top: 10px;
+    padding: 10px 25px;
+    font-family: 'Roboto',sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    border-radius: 6px;
+}
+
+.watching-video .subscribe-content .rate-content {
+    display: flex;
+    justify-content: space-evenly;
+    align-content: baseline;
+}
+
+.watching-video .subscribe-content .rate-content img {
+    width: 24px;
+    height: 24px;
+    margin: 3px 5px;
+}

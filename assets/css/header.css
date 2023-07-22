@@ -1,11 +1,13 @@
 /*CONFIGURAÇÕES SOBRE HEADER EM GERAL*/
 
 header {
-    margin: 13px;
+    margin: 0;
+    padding: 13px;
     background-color: white;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    box-shadow: 2px 1px 8px rgba(0, 0, 0, 0.075);
 }
 
 header img {
@@ -31,17 +33,29 @@ header .itens-01 .yt-menu {
 header .itens-02 {
     display: flex;
     border: 1px solid gray;
-    border-radius: 5px;
+    border-radius: 25px;
 }
 
 header .itens-02 .search-input {
     border: 1px solid rgba(128, 128, 128, 0.253);
     width: 400px;
     cursor: text;
-    border-radius: 5px 0 0 5px;
+    border-radius: 25px 0 0 25px;
 }
 
 header .itens-02 > img {
-    padding: 7px;
+    padding: 10px 14px;
     background-color: rgba(211, 211, 211, 0.39);
+    border-radius: 0 25px 25px 0;
+}
+
+header .itens-03 .profile-menu {
+    border-radius: 50%;
+}
+
+header .itens-03 {
+    width: 140px;
+    display: flex;
+    justify-content: space-between;
+
 }
