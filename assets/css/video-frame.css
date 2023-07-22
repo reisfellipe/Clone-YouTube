@@ -1,7 +1,12 @@
 .watching-video {
-    margin: 25px;
-    width: 64vw;
-    height: 824px;
+    margin: 30px 40px;
+    width: 65vw;
+    height: 630px;
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 16px;
 }
 .watching-video img {
     width: 960px;
@@ -27,6 +32,7 @@
     display: flex;
     justify-content: space-between;
     margin-top: 8px;
+    width: 63vw;
 }
 
 .watching-video .subscribe-content .subscribers{
