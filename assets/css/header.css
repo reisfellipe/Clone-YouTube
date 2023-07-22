@@ -2,7 +2,7 @@
 
 header {
     margin: 0;
-    padding: 13px;
+    padding: 8px;
     background-color: white;
     display: flex;
     flex-direction: row;
@@ -34,6 +34,7 @@ header .itens-02 {
     display: flex;
     border: 1px solid gray;
     border-radius: 25px;
+    margin-right: 120px;
 }
 
 header .itens-02 .search-input {
@@ -54,8 +55,8 @@ header .itens-03 .profile-menu {
 }
 
 header .itens-03 {
-    width: 140px;
+    width: 160px;
     display: flex;
     justify-content: space-between;
-
+    height: 38px;
 }

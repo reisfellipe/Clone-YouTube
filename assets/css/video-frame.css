@@ -1,6 +1,6 @@
 .watching-video {
     margin: 25px;
-    width: 70vw;
+    width: 64vw;
     height: 824px;
 }
 .watching-video img {
@@ -56,7 +56,7 @@
     margin-right: 140px;
     padding: 10px 25px;
     font-family: 'Roboto',sans-serif;
-    font-size: 14px;
+    font-size: 13px;
     font-weight: 600;
     border-radius: 25px;
     letter-spacing: 1px;
