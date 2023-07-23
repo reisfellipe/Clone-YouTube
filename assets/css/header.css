@@ -18,6 +18,11 @@ header .item-header > img{
     padding: 3px 8px;
 }
 
+header .item-header .menu-burger {
+    margin-left: 10px;
+    height: 27px;
+}
+
 /*CONFIGURAÇÕES HEADER DIVS*/
 
 header .itens-01 {
@@ -28,6 +33,8 @@ header .itens-01 {
 
 header .itens-01 .yt-menu {
     margin-left: 35px;
+    margin-top: 5px;
+    width: 110px;
 }
 
 header .itens-02 {
