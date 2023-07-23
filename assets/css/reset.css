@@ -13,6 +13,7 @@ body {
 .main-flex {
     display: flex;
     flex-direction: row;
+    justify-content: space-evenly;
 }
 
 .main-flex .sidebar {
