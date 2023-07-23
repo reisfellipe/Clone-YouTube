@@ -1,0 +1,16 @@
+.frame-description {
+    font-family: 'Roboto',sans-serif;
+    width: 60vw;
+    background-color: rgba(211, 211, 211, 0.329);
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.frame-description h1 {
+    margin: 7px 0 19px 0;
+}
+
+.frame-description p span {
+    font-weight: 700;
+    cursor: pointer;
+}
