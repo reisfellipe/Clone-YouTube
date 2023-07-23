@@ -12,8 +12,7 @@ body {
 
 .main-flex {
     display: flex;
-    flex-direction: row;
-    justify-content: space-evenly;
+    flex-wrap: wrap;
 }
 
 .main-flex .sidebar {
