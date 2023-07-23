@@ -9,3 +9,13 @@
 body {
     background-color: #F9F9F9;
 }
+
+.main-flex {
+    display: flex;
+    flex-direction: row;
+}
+
+.main-flex .sidebar {
+    margin-top: 38px;
+    margin-left: -10px;
+}

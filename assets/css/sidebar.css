@@ -2,11 +2,9 @@
     display: inline-flex;
     flex-direction: column;
     align-items: flex-start;
+    justify-content: flex-end;
     gap: 16px;
     width: 30vw;
-    position: absolute;
-    top: 100px;
-    right: 15px;
     padding-bottom: 10px;
 }
 
