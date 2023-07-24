@@ -1,6 +1,6 @@
 .watching-video {
     margin: 99px 5px 99px 40px;
-    width: 65vw;
+    width: 64vw;
     height: 630px;
     display: inline-flex;
     flex-direction: column;
@@ -9,7 +9,7 @@
     gap: 16px;
 }
 .watching-video img {
-    width: 960px;
+    width: 855px;
     height: 515px;
     cursor: pointer;
 }
@@ -20,6 +20,7 @@
     font-weight: 600;
     font-size: 20px;
     margin-top: 5px;
+    width: 855px;
 }
 
 .watching-video .subscribe-content img {
@@ -59,7 +60,7 @@
     background-color: #CC0000;
     color: white;
     margin-top: 5px;
-    margin-right: 140px;
+    margin-right: 59px;
     padding: 10px 25px;
     font-family: 'Roboto',sans-serif;
     font-size: 13px;
