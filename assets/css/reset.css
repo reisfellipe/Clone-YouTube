@@ -13,9 +13,11 @@ body {
 .main-flex {
     display: inline-flex;
     flex-wrap: wrap;
+    flex-direction: row;
+
 }
 
 .main-flex .sidebar {
-    margin-top: 38px;
+    margin-top: 27px;
     margin-left: -10px;
 }
