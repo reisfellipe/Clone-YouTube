@@ -40,6 +40,7 @@
     margin-left: 8px;
     display: flex;
     flex-direction: row;
+    width: 135px;
 }
 
 .watching-video .subscribe-content .subscribers .subscribers-numbers {
